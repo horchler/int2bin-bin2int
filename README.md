@@ -8,7 +8,7 @@ int2bin - bin2int
 
 [```int2bin(X)```](https://github.com/horchler/int2bin/blob/master/int2bin.m) returns the binary representation of ```X``` as a string. ```X``` must be an integer datatype and non-negative. Unlike Matlab's [```dec2bin```](http://www.mathworks.com/help/matlab/ref/dec2bin.html), ```int2bin``` supports ```int64``` and ```uint64``` values of ```X``` greater than ```2^52```.  
   
-[```bin2int(S)```](https://github.com/horchler/bin2int/blob/master/bin2int.m) returns the integer value represented by the binary string ```S```. The class of the output is the minimum unsigned integer class that supports the number of bits in the binary string. Unlike Matlab's [```bin2dec```](http://www.mathworks.com/help/matlab/ref/bin2dec.html), ```bin2int``` supports binary strings with up to 64 bits.
+[```bin2int(S)```](https://github.com/horchler/int2bin/blob/master/bin2int.m) returns the integer value represented by the binary string ```S```. The class of the output is the minimum unsigned integer class that supports the number of bits in the binary string. Unlike Matlab's [```bin2dec```](http://www.mathworks.com/help/matlab/ref/bin2dec.html), ```bin2int``` supports binary strings with up to 64 bits.
 &nbsp;  
 
 --------
