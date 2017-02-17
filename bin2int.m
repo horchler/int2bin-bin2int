@@ -21,7 +21,7 @@ function x=bin2int(s,dtype)
 %       
 %   See also: INT2BIN, DEC2BIN, BIN2DEC.
 
-%   Andrew D. Horchler, adh9 @ case . edu, Created 4-10-16
+%   Andrew D. Horchler, horchler @ gmail . com, Created 4-10-16
 %   Revision: 1.0, 4-10-16
 
 
