@@ -23,7 +23,7 @@ Compatibility maintained back through Matlab 8.5 (R2015a)
 
 --------
 
-Copyright &copy; 2016&ndash;1017, Andrew D. Horchler  
+Copyright &copy; 2016&ndash;2017, Andrew D. Horchler  
 All rights reserved.  
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
