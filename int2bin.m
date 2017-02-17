@@ -12,7 +12,7 @@ function s=int2bin(x,n)
 %   
 %   See also: BIN2INT, BIN2DEC, DEC2BIN.
 
-%   Andrew D. Horchler, adh9 @ case . edu, Created 1-21-16
+%   Andrew D. Horchler, horchler @ gmail . com, Created 1-21-16
 %   Revision: 1.0, 4-10-16
 
 
