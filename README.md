@@ -1,8 +1,8 @@
 int2bin - bin2int
 ========
-#####Convert integer datatype to a binary string and back in Matlab.#####
-######Version 1.0, 4-10-16######
-#####Download Repository: [ZIP Archive](https://github.com/horchler/int2bin/archive/master.zip)#####
+##### Convert integer datatype to a binary string and back in Matlab.
+###### Version 1.0, 4-10-16
+##### Download Repository: [ZIP Archive](https://github.com/horchler/int2bin/archive/master.zip)
 
 --------
 
